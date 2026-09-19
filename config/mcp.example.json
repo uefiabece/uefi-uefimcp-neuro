@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "uefi-mcp-neuro": {
+      "command": "CAMINHO_ABSOLUTO/uefi-uefimcp-neuro/.venv/Scripts/python.exe",
+      "args": [
+        "CAMINHO_ABSOLUTO/uefi-uefimcp-neuro/run.py"
+      ]
+    }
+  }
+}

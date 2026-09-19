@@ -1,0 +1,47 @@
+{
+  "server_name": "uefi-mcp-neuro",
+  "subject_name": "Bacharelado em Neurociência",
+  "course_name": "Bacharelado em Neurociência",
+  "institution": "UFABC",
+  "language": "pt-BR",
+  "features": {
+    "image_interpretation": false,
+    "symbolic_math": false,
+    "circuit_editing": false,
+    "code_execution": false,
+    "pdf_reading": true,
+    "curriculum_navigation": false
+  },
+  "difficulty_levels": [
+    "easy",
+    "medium",
+    "hard"
+  ],
+  "exercise_styles": [
+    "multiple_choice",
+    "open_answer",
+    "proof",
+    "practical"
+  ],
+  "content_sections": [
+    "syllabus",
+    "bibliography",
+    "exams",
+    "exercises",
+    "notes",
+    "media"
+  ],
+  "metadata": {
+    "credits": null,
+    "semester": null,
+    "professor": null,
+    "year": null,
+    "calendar_system": "quadrimestral"
+  },
+  "level": "course",
+  "origin": {
+    "repository": "https://github.com/uefiabece/uefi-uefimcp",
+    "commit": "8fa9ccb24be21ee3d173f82a07c29b43403efc56",
+    "method": "source snapshot; academic content omitted"
+  }
+}
